@@ -89,3 +89,24 @@ Category are mandatory for 888 scraper.
  
 
  
+BetFred :
+ 
+
+ 
+
+
+
+LADBROKES :
+
+Category are mandatory for Ladbrokes.
+ 
+
+ 
+
+BetClic :
+ 
+ 
+ 
+
+Expekt :
+ 
